@@ -1,4 +1,4 @@
-# cyberdroid
+# cyberdroid-adb
 A android controller or hijacker (using adb method)
 
 # requirments !
